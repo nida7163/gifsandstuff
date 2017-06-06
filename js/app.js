@@ -23,7 +23,7 @@ var shows = [
 	'House of Cards',
 	'Stranger Things',
 	'Game of Thrones',
-	'Friends',
+	'Friends', 
 	'Big Little Lies',
 	'Dexter',
 	'The Office',
